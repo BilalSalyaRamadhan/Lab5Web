@@ -1,7 +1,7 @@
 # Praktikum 5 - JavaScript Dasar dan Manipulasi HTML<br>
 
-## Nama: Fadhil Syafiq Abdullah<br>
-## NIM: 312510161<br>  
+## Nama: Bilal Salya Ramadhan<br>
+## NIM: 312510178<br>  
 ## Mata Kuliah: Pemrograman Web <br> 
 
 
